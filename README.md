@@ -8,7 +8,7 @@ Class: D330
 - Optima: https://optima.jamk.fi/
 
 ## Simplified timetable
-| Day | Subjects | Assignments |
+| Day | Subjects | Tasks |
 |:--------|:----------:|-----:|
 | 13.1. | Course introduction, brainstorming | Learning report, Assignment 1 |  
 | 14.1. | Agile development tools, team communication | |  
