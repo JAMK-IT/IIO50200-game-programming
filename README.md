@@ -1,8 +1,8 @@
 # Game Programming IIO50200 & IIO50101
 
-Teacher: Paavo Nelimarkka
-E-mail: firstname.lastname@jamk.fi
-Phone: xxx
+Teacher: Paavo Nelimarkka  
+E-mail: firstname.lastname@jamk.fi  
+Phone: xxx  
 
 Class: D330
 
