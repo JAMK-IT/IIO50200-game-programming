@@ -16,4 +16,5 @@ Class: D330
 | 21.1. | Pitching, paper prototypes, game definition document | Assignment 2 |  
 | 27.1. | Pitching, team formation, Unity, Graphics | Slack channels |  
 | 28.1. | Jani Immonen: Game Design & Productio | Game design document |  
+| ... | ... | ... |  
 
