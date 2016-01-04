@@ -3,7 +3,7 @@
 Teacher: Paavo Nelimarkka, firstname.lastname@jamk.fi, xxx-xxxxxxx   
 Class: D330
 
-- Full course timetable: https://goo.gl/pjB9K8
+- Full course timetable: https://goo.gl/pjB9K8 **Follow this to see important deadlines!**
 - JAMK-GameDev organization: https://github.com/JAMK-GameDev
 - Optima: https://optima.jamk.fi/
 
