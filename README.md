@@ -7,7 +7,7 @@ Class: D330
 - JAMK-GameDev organization: https://github.com/JAMK-GameDev
 - Optima: https://optima.jamk.fi/
 
-## Simplified timetable - **Check full timetable for deadlines!**
+## Simplified timetable
 | Day | Subjects | Assignments |
 |:--------|:----------:|-----:|
 | 13.1. | Course introduction, brainstorming | Learning report, Assignment 1 |  
