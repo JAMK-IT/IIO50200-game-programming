@@ -7,21 +7,11 @@ Class: D330
 - JAMK-GameDev organization: https://github.com/JAMK-GameDev
 - Optima: https://optima.jamk.fi/
 
-## Simplified timetable 
+## Simplified timetable - **Check full timetable for deadlines!**
 | Day | Subjects | Assignments |
 |:--------|:----------:|-----:|
-| 13.1. | Course introduction, brainstorming | Learning report, Game Evaluation |  
+| 13.1. | Course introduction, brainstorming | Learning report, Assignment 1 |  
 | 14.1. | Agile development tools, team communication | |  
-| 28.1. | Network interfaces, Routing, IPv6 | etc | 
-| 4.2. | Network interfaces 2, NAT | etc | 
-| 11.2. | NTP, ARP, Bootp, DHCP | etc | 
-| 18.2. | Apache (LAMP) & SFTP | etc | 
-| 25.2. | Log files, intermediate feedback | etc | 
-| 3.3. | ༼∩ຈل͜ຈ༽⊃━☆ﾟ. * ･ ｡ﾟ **Winter Holiday** | - | 
-| 10.3. | NFS, Samba | etc | 
-| 17.3. | Performance & Stability | etc | 
-| 24.3. | Docker | etc | 
-| 31.3. | Assignment #1 | - | 
-| 7.4. | Assignment #2 | - | 
-| 14.4. | Exam | - | 
-| 21.4. | Exam return  & course feedback  | - | 
+| 20.1. | Kaljameri & Sumu games, Introduction to Unity & Blender | |  
+| 20.1. | Pitching, paper prototypes, game definition document | Assignment 2 |  
+
