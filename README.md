@@ -18,3 +18,7 @@ Class: D330
 | 28.1. | Jani Immonen: Game Design & Productio | Game design document |  
 | ... | ... | ... |  
 
+## Game project repositories
+
+- Link to your repo
+- Link to your repo
