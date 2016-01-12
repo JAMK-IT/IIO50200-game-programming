@@ -11,7 +11,7 @@ Class: D330
 | Day | Subjects | Tasks |
 |:--------|:----------:|-----:|
 | 13.1. | Course introduction, brainstorming | [Learning report](http://homes.jamk.fi/~huojo/opetus/IIO50Z/LearningReport.pdf), Assignment 1 |  
-| 14.1. | Kaljameri & Sumu games | |  
+| 14.1. | ... | |  
 | 20.1. | ... | |  
 | 21.1. | ... | |  
 | 27.1. | ... | |  
