@@ -25,4 +25,8 @@ Class: D330
 
 ## Misc links
 
+- http://globalgamejam.org/
+- https://education.github.com/pack
+- https://www.reddit.com/r/unity3d
+
 
