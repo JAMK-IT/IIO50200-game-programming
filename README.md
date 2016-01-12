@@ -4,7 +4,7 @@ Teacher: Paavo Nelimarkka, firstname.lastname@jamk.fi, xxx-xxxxxxx
 Class: D330
 
 - Full course timetable: https://goo.gl/pjB9K8 **Follow this to see important deadlines!**
-- [Wiki]()
+- Wiki: https://github.com/JAMK-IT/IIO50200-game-programming/wiki
 - JAMK-GameDev organization: https://github.com/JAMK-GameDev
 - Optima: https://optima.jamk.fi/
 
