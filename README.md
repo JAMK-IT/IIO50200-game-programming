@@ -10,7 +10,7 @@ Class: D330
 ## Simplified timetable
 | Day | Subjects | Tasks |
 |:--------|:----------:|-----:|
-| 13.1. | Course introduction, brainstorming | Learning report, Assignment 1 |  
+| 13.1. | Course introduction, brainstorming | [Learning report](http://homes.jamk.fi/~huojo/opetus/IIO50Z/LearningReport.pdf), Assignment 1 |  
 | 14.1. | Kaljameri & Sumu games | |  
 | 20.1. | ... | |  
 | 21.1. | ... | |  
