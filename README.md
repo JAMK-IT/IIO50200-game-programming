@@ -7,7 +7,7 @@ Class: D330
 - JAMK-GameDev organization: https://github.com/JAMK-GameDev
 - Optima: https://optima.jamk.fi/
 
-## Simplified timetable
+## Lessons
 | Day | Subjects | Tasks |
 |:--------|:----------:|-----:|
 | 13.1. | Course introduction, brainstorming | [Learning report](http://homes.jamk.fi/~huojo/opetus/IIO50Z/LearningReport.pdf), Assignment 1 |  
