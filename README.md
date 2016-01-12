@@ -11,8 +11,8 @@ Class: D330
 | Day | Subjects | Tasks |
 |:--------|:----------:|-----:|
 | 13.1. | Course introduction, brainstorming | Learning report, Assignment 1 |  
-| 14.1. | Agile development tools, team communication | |  
-| 20.1. | Kaljameri & Sumu games, Introduction to Unity & Blender | |  
+| 14.1. | Kaljameri & Sumu games | |  
+| 20.1. | , Introduction to Unity & Blender | |  
 | 21.1. | Pitching, paper prototypes, game definition document | Assignment 2 |  
 | 27.1. | Pitching, team formation, Unity, Graphics | Slack channels |  
 | 28.1. | Jani Immonen: Game Design & Production | Game design document |  
