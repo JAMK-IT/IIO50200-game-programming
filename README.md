@@ -8,9 +8,9 @@ Class: D330
 - Optima: https://optima.jamk.fi/
 
 ## Lessons
-| Day | Subjects | Tasks |
+| Day | Subjects | Misc |
 |:--------|:----------:|-----:|
-| 13.1. | [Course introduction](https://docs.google.com/presentation/d/1lxK5yO8KQRZIGQRxR7wBSfqvQvPL0pGwUs4JmMO07QA/edit?usp=sharing), brainstorming | [Learning report](http://homes.jamk.fi/~huojo/opetus/IIO50Z/LearningReport.pdf), Assignment 1 |  
+| 13.1. | [Course introduction](https://docs.google.com/presentation/d/1lxK5yO8KQRZIGQRxR7wBSfqvQvPL0pGwUs4JmMO07QA/edit?usp=sharing), [learning report](), [game evaluation]() | |  
 | 14.1. | ... | |  
 | 20.1. | ... | |  
 | 21.1. | ... | |  
