@@ -18,7 +18,7 @@ Class: D330
 | 28.1. | ... | |  
 | ... | ... | ... |  
 
-## Game project repositories
+## Learning material
 
 - Link to your repo
 - Link to your repo
