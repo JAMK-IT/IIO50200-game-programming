@@ -11,7 +11,7 @@ Class: D330
 ## Lessons
 | Day | Subjects | Misc |
 |:--------|:----------:|-----:|
-| 13.1. | [Course introduction](https://docs.google.com/presentation/d/1lxK5yO8KQRZIGQRxR7wBSfqvQvPL0pGwUs4JmMO07QA/edit?usp=sharing), [learning report](http://homes.jamk.fi/~huojo/opetus/IIO50Z/LearningReport.pdf), [first entry](https://github.com/JAMK-IT/IIO50200-game-programming/wiki/first-entry-assignment), [assignment 1](https://github.com/JAMK-IT/IIO50200-game-programming/wiki/assignment-1) | [Previous games](previous-games) |  
+| 13.1. | [Course introduction](https://docs.google.com/presentation/d/1lxK5yO8KQRZIGQRxR7wBSfqvQvPL0pGwUs4JmMO07QA/edit?usp=sharing), [learning report](http://homes.jamk.fi/~huojo/opetus/IIO50Z/LearningReport.pdf), [first entry](https://github.com/JAMK-IT/IIO50200-game-programming/wiki/first-entry-assignment), [assignment 1](https://github.com/JAMK-IT/IIO50200-game-programming/wiki/assignment-1) | [Previous games](https://github.com/JAMK-IT/IIO50200-game-programming/wiki/previous-games) |  
 | 14.1. | [Slack](https://github.com/JAMK-IT/IIO50200-game-programming/wiki/how-to-slack), brainstorm ideas, [assignment 2](https://github.com/JAMK-IT/IIO50200-game-programming/wiki/assignment-2) | Check yesterdays stuff! |  
 | 20.1. | ... | |  
 | 21.1. | ... | |  
