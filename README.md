@@ -21,8 +21,7 @@ Class: D330
 
 ## Learning material
 
-- Link to your repo
-- Link to your repo
+- To be linked
 
 ## Misc links
 
