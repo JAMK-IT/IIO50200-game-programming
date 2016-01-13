@@ -11,7 +11,7 @@ Class: D330
 ## Lessons
 | Day | Subjects | Misc |
 |:--------|:----------:|-----:|
-| 13.1. | [Course introduction](https://docs.google.com/presentation/d/1lxK5yO8KQRZIGQRxR7wBSfqvQvPL0pGwUs4JmMO07QA/edit?usp=sharing), [learning report](http://homes.jamk.fi/~huojo/opetus/IIO50Z/LearningReport.pdf) and the [first entry](https://github.com/JAMK-IT/IIO50200-game-programming/wiki/first-entry-assignment), [assignment 1](https://github.com/JAMK-IT/IIO50200-game-programming/wiki/assignment-1) | |  
+| 13.1. | [Course introduction](https://docs.google.com/presentation/d/1lxK5yO8KQRZIGQRxR7wBSfqvQvPL0pGwUs4JmMO07QA/edit?usp=sharing), [learning report](http://homes.jamk.fi/~huojo/opetus/IIO50Z/LearningReport.pdf), [first entry](https://github.com/JAMK-IT/IIO50200-game-programming/wiki/first-entry-assignment), [assignment 1](https://github.com/JAMK-IT/IIO50200-game-programming/wiki/assignment-1) | |  
 | 14.1. | ... | |  
 | 20.1. | ... | |  
 | 21.1. | ... | |  
