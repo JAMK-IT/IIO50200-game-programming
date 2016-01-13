@@ -22,7 +22,8 @@ Class: D330
 ## Learning material
 
 - To be linked
-
+- Our library has some books on the subject!
+ 
 ## Misc links
 
 - http://globalgamejam.org/
