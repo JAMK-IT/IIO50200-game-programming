@@ -7,7 +7,7 @@ Class: D330
 - Wiki: https://github.com/JAMK-IT/IIO50200-game-programming/wiki
 - JAMK-GameDev organization: https://github.com/JAMK-GameDev
 - Optima: https://optima.jamk.fi/
-- For those only on Basics of Game Programming, [see this]()
+- For those only on Basics of Game Programming, [see this](https://github.com/JAMK-IT/IIO50200-game-programming/wiki/only-basics-of-game-programming)
 
 ## Lessons
 | Day | Subjects | Misc |
