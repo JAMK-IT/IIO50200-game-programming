@@ -23,6 +23,7 @@ Class: D330
 ## Learning material
 
 - To be linked
+- Also check the Optima
 - Our library has some books on the subject!
  
 ## Misc links
