@@ -1,12 +1,13 @@
 # Game Programming IIO50200 & IIO50101
 
-Teacher: Paavo Nelimarkka, firstname.lastname@jamk.fi, xxx-xxxxxxx   
+Teacher: Paavo Nelimarkka, firstname.lastname@jamk.fi, xxx-xxxxxxx, D555   
 Class: D330
 
 - Full course timetable: https://goo.gl/pjB9K8 **Follow this to see important deadlines!**
 - Wiki: https://github.com/JAMK-IT/IIO50200-game-programming/wiki
 - JAMK-GameDev organization: https://github.com/JAMK-GameDev
 - Optima: https://optima.jamk.fi/
+- For those only on Basics of Game Programming, [see this]()
 
 ## Lessons
 | Day | Subjects | Misc |
