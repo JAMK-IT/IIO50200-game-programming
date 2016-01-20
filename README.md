@@ -22,7 +22,8 @@ Class: D330
 
 ## Learning material
 
-- To be linked
+- [Overview of Agile methodology](http://www.slideshare.net/hareshkarkar/overview-of-agile-methodology)
+- [Introduction to game prototyping and research](http://www.slideshare.net/Gortag/game-prototyping-and-research) 
 - Also check the Optima
 - Our library has some books on the subject!
  
