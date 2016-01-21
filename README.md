@@ -15,7 +15,7 @@ Class: D330
 | 13.1. | [Course introduction](https://docs.google.com/presentation/d/1lxK5yO8KQRZIGQRxR7wBSfqvQvPL0pGwUs4JmMO07QA/edit?usp=sharing), [learning report](http://homes.jamk.fi/~huojo/opetus/IIO50Z/LearningReport.pdf), [first entry](https://github.com/JAMK-IT/IIO50200-game-programming/wiki/first-entry-assignment), [assignment 1](https://github.com/JAMK-IT/IIO50200-game-programming/wiki/assignment-1) | [Previous games](https://github.com/JAMK-IT/IIO50200-game-programming/wiki/previous-games) |  
 | 14.1. | [Slack](https://github.com/JAMK-IT/IIO50200-game-programming/wiki/how-to-slack), brainstorm ideas, [assignment 2](https://github.com/JAMK-IT/IIO50200-game-programming/wiki/assignment-2) | Check yesterdays stuff! |  
 | 20.1. | Agile methodologies, paper prototypes, [basics of Unity3D](http://unity3d.com/learn/tutorials/projects/roll-ball-tutorial), [assignment 3](https://github.com/JAMK-IT/IIO50200-game-programming/wiki/assignment-3) | |  
-| 21.1. | Customer case, Basics of Blender | Hanna Järvelin, Arttu Maijanen |  
+| 21.1. | Customer case, [Basics of Blender](https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F164LwDMPHO0JUoAAMd1PKirJEM1KQSBuEMmUHhLGMksQ%2Fedit%3Fusp%3Dsharing&h=PAQGZJYc6&s=1) | Hanna Järvelin, Arttu Maijanen |  
 | 27.1. | ... | |  
 | 28.1. | ... | |  
 | ... | ... | ... |  
