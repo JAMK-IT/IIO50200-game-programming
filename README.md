@@ -7,7 +7,6 @@ Class: D330
 
 - Full course timetable: https://goo.gl/pjB9K8 **Follow this to see important deadlines!**
 - Wiki: https://github.com/JAMK-IT/IIO50200-game-programming/wiki
-- JAMK-GameDev organization: https://github.com/JAMK-GameDev
 - Optima: https://optima.jamk.fi/
 - For those only on Basics of Game Programming, [see this](https://github.com/JAMK-IT/IIO50200-game-programming/wiki/only-basics-of-game-programming)
 
@@ -31,6 +30,7 @@ Class: D330
  
 ## Misc links
 
+- JAMK-GameDev organization: https://github.com/JAMK-GameDev
 - http://globalgamejam.org/
 - https://education.github.com/pack
 - https://www.reddit.com/r/unity3d
