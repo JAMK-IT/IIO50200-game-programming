@@ -17,7 +17,7 @@ Class: D330
 | 20.1. | Agile methodologies, paper prototypes, [basics of Unity3D](http://unity3d.com/learn/tutorials/projects/roll-ball-tutorial), [assignment 3](https://github.com/JAMK-IT/IIO50200-game-programming/wiki/assignment-3) | |  
 | 21.1. | Customer case, [Basics of Blender](https://docs.google.com/presentation/d/164LwDMPHO0JUoAAMd1PKirJEM1KQSBuEMmUHhLGMksQ/edit?usp=sharing) | Hanna Järvelin, Arttu Maijanen |  
 | 27.1. | Pitching in small groups, team formation, game graphics(?) | Paavo & Arttu|  
-| 28.1. | ... | |  
+| 28.1. | Unity | Petri Matilainen |  
 | ... | ... | ... |  
 
 ## Learning material
