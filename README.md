@@ -1,6 +1,8 @@
 # Game Programming IIO50200 & IIO50101
 
-Teacher: Paavo Nelimarkka, firstname.lastname@jamk.fi, xxx-xxxxxxx, D555   
+Teacher: Paavo Nelimarkka  
+Contact: D555, firstname.lastname@jamk.fi, 040 anti-spam 642 7770
+
 Class: D330
 
 - Full course timetable: https://goo.gl/pjB9K8 **Follow this to see important deadlines!**
