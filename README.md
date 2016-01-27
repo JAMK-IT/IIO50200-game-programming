@@ -27,7 +27,7 @@ Class: D330
 - [Overview of Agile methodology](http://www.slideshare.net/hareshkarkar/overview-of-agile-methodology)
 - [Introduction to game prototyping and research](http://www.slideshare.net/Gortag/game-prototyping-and-research) 
 - [Vertex PDF Magazines](http://artbypapercut.com/) -  detailed step-by-step walkthroughs by professional game artists
-- [Dota 2 Character Art Guide](http://media.steampowered.com/apps/dota2/workshop/Dota2CharacterArtGuide.pdf) -  - very good and brief introduction to character design
+- [Dota 2 Character Art Guide](http://media.steampowered.com/apps/dota2/workshop/Dota2CharacterArtGuide.pdf) - very good and brief introduction to character design
 - [Juicy Breakout](http://grapefrukt.com/f/games/juicy-breakout/) - example of how very simple graphical effects can make a game feel more responsive and enjoyable, also check out the linked "Juice it or lose it" presentation
 - [HD Index Painting in PhotoShop](http://danfessler.com/blog/hd-index-painting-in-photoshop) - how to create pixel art -style backgrounds quickly in PhotoShop
 - Also check the Optima
