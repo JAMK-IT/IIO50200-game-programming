@@ -36,7 +36,6 @@ Class: D330
 ## Misc links
 
 - JAMK-GameDev organization: https://github.com/JAMK-GameDev
-- http://globalgamejam.org/
 - https://education.github.com/pack
 - https://www.reddit.com/r/unity3d
 
