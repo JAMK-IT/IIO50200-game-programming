@@ -20,7 +20,7 @@ Class: D330
 | 21.1. | Customer case, [Basics of Blender](https://docs.google.com/presentation/d/164LwDMPHO0JUoAAMd1PKirJEM1KQSBuEMmUHhLGMksQ/edit?usp=sharing) | Hanna Järvelin, Arttu Maijanen |  
 | 27.1. | [Pitching in small groups, team formation](https://github.com/JAMK-IT/IIO50200-game-programming/wiki/27-1-agenda), [basics of game graphics](https://docs.google.com/presentation/d/1JxqEwPEfJaiewqhWIZCdEMZIAYXPpoQgE1SaG5pcrQg/edit?usp=sharing) | Paavo & Arttu|  
 | 28.1. | [Unity](https://github.com/JAMK-IT/IIO50200-game-programming/wiki/how-to-unity) | Petri Matilainen |  
-| 3.3. | [Game Project Plan](https://github.com/JAMK-IT/IIO50200-game-programming/wiki/game-project-plan), [Game Design Document](https://github.com/JAMK-IT/IIO50200-game-programming/wiki/Game-design-document), [Game Prototype](https://github.com/JAMK-IT/IIO50200-game-programming/wiki/Paper-prototype), Post-mortems, [Assignment 4](https://github.com/JAMK-IT/IIO50200-game-programming/wiki/Assignment-4), Basics of Animation | Klaus Kääriäinen, Paavo Nelimarkka, Arttu Maijanen |  
+| 3.3. | [Game Project Plan](https://github.com/JAMK-IT/IIO50200-game-programming/wiki/game-project-plan), [Game Design Document](https://github.com/JAMK-IT/IIO50200-game-programming/wiki/Game-design-document), [Game Prototype](https://github.com/JAMK-IT/IIO50200-game-programming/wiki/Paper-prototype), Post-mortems, [Assignment 4](https://github.com/JAMK-IT/IIO50200-game-programming/wiki/Assignment-4), [Basics of Animation](https://docs.google.com/presentation/d/1Dnfxb-ChO9BGsgOMf-XL9YlRQ7HhCvo5Qwu70_zEKdo/edit?usp=sharing) | Klaus Kääriäinen, Paavo Nelimarkka, Arttu Maijanen |  
 
 ## Learning material
 
