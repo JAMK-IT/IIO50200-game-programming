@@ -23,7 +23,7 @@ Class: D330
 | 3.2. | [Game Project Plan](https://github.com/JAMK-IT/IIO50200-game-programming/wiki/game-project-plan), [Game Design Document](https://github.com/JAMK-IT/IIO50200-game-programming/wiki/Game-design-document), [Game Prototype](https://github.com/JAMK-IT/IIO50200-game-programming/wiki/Paper-prototype), Post-mortems, [Assignment 4](https://github.com/JAMK-IT/IIO50200-game-programming/wiki/Assignment-4), [Basics of Animation](https://docs.google.com/presentation/d/1Dnfxb-ChO9BGsgOMf-XL9YlRQ7HhCvo5Qwu70_zEKdo/edit?usp=sharing) | Klaus Kääriäinen, Paavo Nelimarkka, Arttu Maijanen |  
 | 4.2. | [Unity](https://github.com/JAMK-IT/IIO50200-game-programming/wiki/how-to-unity), MarbleGame([assets](https://www.dropbox.com/s/gb2bo91h5m2xda7/Assets.zip?dl=0)) | Petri Matilainen |
 | 10.2. | Pitch, prototype and synopsis reviews. Project work.  | Paavo, Arttu |
-| 11.2. | Unity3D | Petri |
+| 11.2. | Unity3D (topdown shooter) | Petri |
 
 ## Learning material
 
