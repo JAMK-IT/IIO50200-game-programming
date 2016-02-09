@@ -11,6 +11,8 @@ Class: D330
 - For those only on Basics of Game Programming, [see this](https://github.com/JAMK-IT/IIO50200-game-programming/wiki/only-basics-of-game-programming)
 - Slackers and Githubbers, add your email to [this list](https://goo.gl/oKzyGd)
 
+**Check if you have enrolled to both the courses (ASIO), if not and willing please tell me. If you are only willing to do the basics part, please tell me.**
+
 ## Lessons
 | Day | Subjects | Misc |
 |:--------|:----------:|-----:|
