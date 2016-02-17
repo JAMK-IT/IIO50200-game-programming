@@ -30,7 +30,7 @@ Class: D330
 
 ## Learning material
 
-- [Unity3D & Blender video (in Finnish](https://www.youtube.com/watch?v=UsY3oqyrHao)
+- [Unity3D & Blender video (in Finnish)](https://www.youtube.com/watch?v=UsY3oqyrHao)
 - [Overview of Agile methodology](http://www.slideshare.net/hareshkarkar/overview-of-agile-methodology)
 - [Introduction to game prototyping and research](http://www.slideshare.net/Gortag/game-prototyping-and-research) 
 - [Vertex PDF Magazines](http://artbypapercut.com/) -  detailed step-by-step walkthroughs by professional game artists
