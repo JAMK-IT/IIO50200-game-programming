@@ -41,6 +41,7 @@ Class: D330
  
 ## Misc links
 
+- [From prototype to game release](http://imgur.com/gallery/1oM5t/new)
 - JAMK-GameDev organization: https://github.com/JAMK-GameDev
 - https://education.github.com/pack
 - https://www.reddit.com/r/unity3d
