@@ -26,7 +26,7 @@ Class: D330
 | 4.2. | [Unity](https://github.com/JAMK-IT/IIO50200-game-programming/wiki/how-to-unity), [MarbleGame](https://www.dropbox.com/s/j2ma8kxktfmh2sc/MarbleGame.zip?dl=0)([assets](https://www.dropbox.com/s/gb2bo91h5m2xda7/Assets.zip?dl=0)) | Petri Matilainen |
 | 10.2. | **Return/Present: Pitch, prototype and synopsis.** Project work. [Animation exercises.](http://arttumaijanen.kapsi.fi/iio50z/AnimateThis.zip) | Paavo, Arttu |
 | 11.2. | [Unity](https://github.com/JAMK-IT/IIO50200-game-programming/wiki/how-to-unity), Top-Down Shooter([assets](https://www.dropbox.com/s/3xwkn6hnagtwlu2/TDS_assets.unitypackage?dl=0), [enemy](https://www.dropbox.com/s/eqfti8naqnqgog3/Enemy_assets.unitypackage?dl=0)) | Petri Matilainen |
-| 17.2. | **GDD + Project Plan reviews**, Unity Lighmapping & Particle Effect Tutorials ([textures](https://www.dropbox.com/s/i5mn2j0b4uqfi22/ParticleEffects.unitypackage?dl=0)), project work | Paavo Nelimarkka |
+| 17.2. | **GDD + Project Plan reviews**, **After lunch:** Unity Lighmapping & Particle Effect Tutorials ([textures](https://www.dropbox.com/s/i5mn2j0b4uqfi22/ParticleEffects.unitypackage?dl=0)), project work | Paavo Nelimarkka |
 
 ## Learning material
 
