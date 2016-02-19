@@ -31,6 +31,7 @@ Class: D330
 
 ## Learning material
 
+- [Beginning C# Scripting in Unity3D](https://www.youtube.com/playlist?list=PLFgjYYTq6xyhtVK6VzLiFe3pmBu-XSNlX)
 - [Unity3D & Blender video (in Finnish)](https://www.youtube.com/watch?v=UsY3oqyrHao)
 - [Overview of Agile methodology](http://www.slideshare.net/hareshkarkar/overview-of-agile-methodology)
 - [Introduction to game prototyping and research](http://www.slideshare.net/Gortag/game-prototyping-and-research) 
