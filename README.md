@@ -28,7 +28,8 @@ Class: D330
 | 11.2. | [Unity](https://github.com/JAMK-IT/IIO50200-game-programming/wiki/how-to-unity), [Top-Down Shooter](https://www.dropbox.com/s/r6aj4d4ssn16cel/TDS.zip?dl=0)([assets](https://www.dropbox.com/s/3xwkn6hnagtwlu2/TDS_assets.unitypackage?dl=0), [enemy](https://www.dropbox.com/s/eqfti8naqnqgog3/Enemy_assets.unitypackage?dl=0)) | Petri Matilainen |
 | 17.2. | **Before lunch:** return your GDD + Project Plan! **After lunch:** Unity Lighmapping & Particle Effect Tutorials ([textures](https://www.dropbox.com/s/i5mn2j0b4uqfi22/ParticleEffects.unitypackage?dl=0)), [Effect Prefab](https://www.dropbox.com/s/gcucyhxg7fxg0wu/flareParticle.unitypackage?dl=0), project work | Paavo Nelimarkka |
 | 18.2. | [Texturing](https://docs.google.com/presentation/d/1nKrANQViKQ4t02FNrVZE_lFRNQ17GKdLonclohh0t2w/edit?usp=sharing), [Example Unity project](http://arttumaijanen.kapsi.fi/iio50z/TextureTest.zip) | Arttu Maijanen
-| 24.2. | [Texturing practice in Krita and Blender](https://docs.google.com/presentation/d/1fLt_D_ndaoiBOI4pRM84zP99AT_0rzufxfUowfg_cuw/edit?usp=sharing) | Arttu Maijanen
+| 24.2. | [Texturing practice in Krita and Blender](https://docs.google.com/presentation/d/1fLt_D_ndaoiBOI4pRM84zP99AT_0rzufxfUowfg_cuw/edit?usp=sharing) | Arttu Maijanen |
+| 24.2. | Intermediate evaluation, Experiences in International Game Project | Niko Korhonen |
 ## Learning material
 
 - [Beginning C# Scripting in Unity3D](https://www.youtube.com/playlist?list=PLFgjYYTq6xyhtVK6VzLiFe3pmBu-XSNlX)
