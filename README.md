@@ -45,6 +45,7 @@ Class: D330
  
 ## Misc links
 
+- [Mid-course feedback]()
 - [From prototype to game release](http://imgur.com/gallery/1oM5t/new)
 - JAMK-GameDev organization: https://github.com/JAMK-GameDev
 - https://education.github.com/pack
