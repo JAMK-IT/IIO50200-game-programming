@@ -31,6 +31,7 @@ Class: D330
 | 18.2. | [Texturing](https://docs.google.com/presentation/d/1nKrANQViKQ4t02FNrVZE_lFRNQ17GKdLonclohh0t2w/edit?usp=sharing), [Example Unity project](http://arttumaijanen.kapsi.fi/iio50z/TextureTest.zip) | Arttu Maijanen
 | 24.2. | [Texturing practice in Krita and Blender](https://docs.google.com/presentation/d/1fLt_D_ndaoiBOI4pRM84zP99AT_0rzufxfUowfg_cuw/edit?usp=sharing) | Arttu Maijanen |
 | 24.2. | Intermediate evaluation, Experiences in International Game Project | Niko Korhonen |
+| 24.2. | Prototype reviews, project work | Paavo, Arttu |
 ## Learning material
 
 - [Beginning C# Scripting in Unity3D](https://www.youtube.com/playlist?list=PLFgjYYTq6xyhtVK6VzLiFe3pmBu-XSNlX)
