@@ -30,8 +30,11 @@ Class: D330
 | 17.2. | **Before lunch:** return your GDD + Project Plan! **After lunch:** Unity Lighmapping & Particle Effect Tutorials ([textures](https://www.dropbox.com/s/i5mn2j0b4uqfi22/ParticleEffects.unitypackage?dl=0)), [Effect Prefab](https://www.dropbox.com/s/gcucyhxg7fxg0wu/flareParticle.unitypackage?dl=0), project work | Paavo Nelimarkka |
 | 18.2. | [Texturing](https://docs.google.com/presentation/d/1nKrANQViKQ4t02FNrVZE_lFRNQ17GKdLonclohh0t2w/edit?usp=sharing), [Example Unity project](http://arttumaijanen.kapsi.fi/iio50z/TextureTest.zip) | Arttu Maijanen
 | 24.2. | [Texturing practice in Krita and Blender](https://docs.google.com/presentation/d/1fLt_D_ndaoiBOI4pRM84zP99AT_0rzufxfUowfg_cuw/edit?usp=sharing) | Arttu Maijanen |
-| 24.2. | Intermediate evaluation, Experiences in International Game Project | Niko Korhonen |
-| 24.2. | Prototype reviews, project work | Paavo, Arttu |
+| 25.2. | Intermediate evaluation, Experiences in International Game Project | Niko Korhonen |
+| 9.3. | Prototype reviews, project work | Paavo, Arttu |
+| 10.3. | Unity (Pathfinding) | Petri |
+| 16.3. | Project work... | ... |
+
 ## Learning material
 
 - [Beginning C# Scripting in Unity3D](https://www.youtube.com/playlist?list=PLFgjYYTq6xyhtVK6VzLiFe3pmBu-XSNlX)
