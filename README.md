@@ -33,7 +33,7 @@ Class: D330
 | 25.2. | Intermediate evaluation, Experiences in International Game Project | Niko Korhonen |
 | 9.3. | Prototype reviews, project work | Paavo, Arttu |
 | 10.3. | [Unity](https://github.com/JAMK-IT/IIO50200-game-programming/wiki/how-to-unity), [Pathfinding Demo](https://www.dropbox.com/s/y6ttdn1l7gni3pm/Pathfinding.zip?dl=0) ([assets](https://www.dropbox.com/s/g37iz6qnbzo0iu4/pfd_assets.unitypackage?dl=0)). Project work. | Petri |
-| 16.3. | Level design, Project work | Arttu |
+| 16.3. | [Level design](https://docs.google.com/presentation/d/1Na9F7hzJ7qvq6RJlppgLhIbeTDbNF5SCBUBkyaPqgaE/edit?usp=sharing), Project work | Arttu |
 | 17.3. | Project work | Petri |
 | ... |... | ... |
 
