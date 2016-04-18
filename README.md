@@ -37,7 +37,7 @@ Class: D330
 | 17.3. | Project work | Petri |
 | ... |... | ... |
 | 20.4. | [Presentations]() | ... |
-| 27.4. | [Expa!](http://expa.fi/), group discussions, course feedback | Paavo, Expa |
+| 27.4. | [Expa](http://expa.fi/) & [Zaibatsu](http://zaibatsu.fi/), group discussions, course feedback | Paavo, Expa |
 
 
 ## Learning material
