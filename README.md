@@ -36,7 +36,7 @@ Class: D330
 | 16.3. | [Level design](https://docs.google.com/presentation/d/1Na9F7hzJ7qvq6RJlppgLhIbeTDbNF5SCBUBkyaPqgaE/edit?usp=sharing), Project work | Arttu |
 | 17.3. | Project work | Petri |
 | ... |... | ... |
-| 20.4. | [Presentations]() | ... |
+| 20.4. | [Presentations](https://github.com/JAMK-IT/IIO50200-game-programming/wiki/Presentations) | ... |
 | 27.4. | [Expa](http://expa.fi/) & [Zaibatsu](http://zaibatsu.fi/), group/personal discussions, course feedback | Paavo, Expa |
 
 
