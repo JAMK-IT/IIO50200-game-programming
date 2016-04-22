@@ -40,6 +40,16 @@ Class: D330
 | 27.4. | [Expa](http://expa.fi/) & [Zaibatsu](http://zaibatsu.fi/), group/personal discussions, course feedback | Paavo, Expa |
 
 
+## Assignments
+
+Some of you still haven't returned the written graphics assignment, so get to it ASAP! It won't take long, you just need to write a short summary of your thought process. To recap:
+
+- Go to http://videogamena.me/, generate a random video game title
+- What existing video game's graphical style would you copy for that game? Why?
+- Return your answer to the Personal Assignments return folder in Optima
+
+The full description of the assignment w/ a short example can be found at the end of the [Designing game graphics slides](https://docs.google.com/presentation/d/1JxqEwPEfJaiewqhWIZCdEMZIAYXPpoQgE1SaG5pcrQg/edit?usp=sharing).
+
 ## Learning material
 
 - [Beginning C# Scripting in Unity3D](https://www.youtube.com/playlist?list=PLFgjYYTq6xyhtVK6VzLiFe3pmBu-XSNlX)
