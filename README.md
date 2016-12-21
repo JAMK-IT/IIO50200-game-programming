@@ -52,6 +52,7 @@ The full description of the assignment w/ a short example can be found at the en
 
 ## Learning material
 
+- [Git guide](http://rogerdudler.github.io/git-guide/)
 - [Beginning C# Scripting in Unity3D](https://www.youtube.com/playlist?list=PLFgjYYTq6xyhtVK6VzLiFe3pmBu-XSNlX)
 - [Unity3D & Blender video (in Finnish)](https://www.youtube.com/watch?v=UsY3oqyrHao)
 - [Overview of Agile methodology](http://www.slideshare.net/hareshkarkar/overview-of-agile-methodology)
